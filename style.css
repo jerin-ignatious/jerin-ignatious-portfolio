@@ -1,11 +1,11 @@
-.first{
+#first{
 	padding-top: 30px;
 	padding-bottom: 30px;
-	background-color: #8FBC3E;
+	background-color: #67AE87;
 	text-align: center;
 	color: #FFFFFF
 }
-.about{
+#about{
 	padding-top: 50px;
 	padding-bottom: 50px;
 	padding-right: 200px;
@@ -14,7 +14,7 @@
 	font-family: Trebuchet MS;
 	color: #606467;
 }
-.edu{
+#edu{
 	padding-top: 50px;
 	padding-bottom: 50px;
 	padding-right: 200px;
@@ -23,7 +23,7 @@
 	font-family: Trebuchet MS;
 	color: #606467;
 }
-.skill{
+#skill{
 	padding-top: 50px;
 	padding-bottom: 50px;
 	padding-right: 200px;
@@ -32,7 +32,7 @@
 	font-family: Trebuchet MS;
 	color: #606467;
 }
-.proj{
+#proj{
 	padding-top: 50px;
 	padding-bottom: 50px;
 	padding-right: 200px;
@@ -41,7 +41,7 @@
 	font-family: Trebuchet MS;
 	color: #606467;
 }
-.act{
+#act{
 	padding-top: 50px;
 	padding-bottom: 50px;
 	padding-right: 200px;
@@ -50,12 +50,12 @@
 	font-family: Trebuchet MS;
 	color: #606467
 }
-.contact{
+#contact{
 	padding-top: 30px;
 	padding-bottom: 30px;
 	padding-right: 100px;
 	padding-left: 100px;
-	background-color: #8FBC3E;
+	background-color: #67AE87;
 	text-align: center;
 	color: #FFFFFF	
 }
@@ -71,4 +71,38 @@ hr{
 }
 ul.a{
 	list-style-position: outside;
+}
+@media screen and (max-width: 980px){
+	#first{
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	#about{
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	#edu{
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	#skill{
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	#proj{
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	#act{
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	#contact{
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	.cpr{
+		padding-left: 30px;
+		padding-right: 30px;
+	}
 }
