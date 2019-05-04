@@ -6,9 +6,49 @@
 	color: #FFFFFF
 }
 .about{
-	padding-top: 80px;
-	padding-bottom: 80px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-right: 200px;
+	padding-left: 200px;
 	background-color: #A7BCCE;
+	font-family: Trebuchet MS;
+	color: #606467;
+}
+.edu{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-right: 200px;
+	padding-left: 200px;
+	background-color: #7CA4B9;
+	font-family: Trebuchet MS;
+	color: #606467;
+}
+.skill{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-right: 200px;
+	padding-left: 200px;
+	background-color: #98B7C8;
+	font-family: Trebuchet MS;
+	color: #606467;
+}
+.proj{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-right: 200px;
+	padding-left: 200px;
+	background-color: #9DA1DF;
+	font-family: Trebuchet MS;
+	color: #606467;
+}
+.act{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-right: 200px;
+	padding-left: 200px;
+	background-color: #A7BCCE;
+	font-family: Trebuchet MS;
+	color: #606467
 }
 .contact{
 	padding-top: 30px;
@@ -28,4 +68,7 @@ hr{
 	background-color: #FFFFFF; 
 	height: 1px; 
 	border: 0;
+}
+ul.a{
+	list-style-position: outside;
 }
