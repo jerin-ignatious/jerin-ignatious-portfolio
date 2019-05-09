@@ -1,9 +1,13 @@
+.navbar{
+	font-family: 'Courgette', cursive;
+}
 #first{
 	padding-top: 30px;
 	padding-bottom: 30px;
-	background-color: #67AE87;
+	background-image: url("banner-blue-background.png");
 	text-align: center;
-	color: #FFFFFF
+	color: #FFFFFF;
+	font-family: 'Lobster', cursive;
 }
 #about{
 	padding-top: 50px;
@@ -11,7 +15,7 @@
 	padding-right: 200px;
 	padding-left: 200px;
 	background-color: #EDF2F0;
-	font-family: Trebuchet MS;
+	font-family: 'Trebuchet MS';
 	color: #606467;
 }
 #edu{
@@ -55,7 +59,7 @@
 	padding-bottom: 30px;
 	padding-right: 100px;
 	padding-left: 100px;
-	background-color: #67AE87;
+	background-image: url("banner-blue-background.png");
 	text-align: center;
 	color: #FFFFFF	
 }
@@ -63,6 +67,7 @@
 	padding-top: 30px;
 	padding-bottom: 20px;
 	text-align: center;
+	font-family: 'Courgette', cursive;
 }
 hr{
 	background-color: #FFFFFF; 
