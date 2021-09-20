@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function Body() {
+export default function Mobile() {
     return (
         <div>
-            this is body
+            this is mobile
         </div>
     )
 }
