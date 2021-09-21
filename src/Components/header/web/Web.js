@@ -10,7 +10,7 @@ export default function Web() {
                 </a>
             </div>
             <div className='web-option'>
-                <a href='#skill'>
+                <a href='#skills'>
                     Skills
                 </a>
             </div>

@@ -20,7 +20,7 @@ export default function Header() {
                     <div onClick = {() => setIsOpen(!isOpen)}>
                         <i class='fa fa-bars menu-icon'></i>
                     </div>
-                    {isOpen && <Mobile/>}
+                    {isOpen && <Mobile isOpen = {isOpen} setIsOpen = {setIsOpen}/>}
                 </div>
             </div>
         </div>
