@@ -1,0 +1,38 @@
+export const ProjectData = [
+    {
+        id: 1,
+        title:'Anime Release Reminder',
+        about:'A web application built using React that displays the anime episodes airing on the current day! It uses Jikan Manga API to fetch the schedule of the anime airing for the day.',
+        tags:['ReactJs', 'REST API', 'HTML5', 'CSS3'],
+        demo:'https://daily-anime-list.netlify.app/',
+        github:'https://github.com/jerin-ignatious/anime-release-reminder',
+        image: require('../../assets/projects/animeReleaseReminder.png').default,
+    },
+    {
+        id: 2,
+        title:'Calculator',
+        about:'A fully functional calculator web applications designed and developed using HTML CSS and Vanilla JS',
+        tags:['Vanilla-Js', 'HTML5', 'CSS3'],
+        demo:'https://calculator-jerin.netlify.app/',
+        github:'https://github.com/jerin-ignatious/Calculator',
+        image: require('../../assets/projects/calculator.png').default,
+    },
+    {
+        id: 3,
+        title:'Snack Menu Online',
+        about:'A web applicaton that displays an online menu along with the functionality to filter the items based on the categories like breakfast item, lunch items and shakes.',
+        tags:['ReactJs', 'CSS3', 'HTML5'],
+        demo:'https://snack-menu.netlify.app/',
+        github:'https://github.com/jerin-ignatious/snack-menu-online',
+        image: require('../../assets/projects/snackMenuOnline.png').default,
+    },
+    {
+        id: 4,
+        title:'Anime FAQ',
+        about:'A web application that displays the Frequently Asked Questions about anime',
+        tags:['ReactJs', 'CSS3', 'HTML5'],
+        demo:'https://anime-faq.netlify.app/',
+        github:'https://github.com/jerin-ignatious/faq-page',
+        image: require('../../assets/projects/animeFAQ.png').default,
+    },
+];

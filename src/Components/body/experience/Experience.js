@@ -1,9 +1,11 @@
 import React from 'react'
+import Separator from '../../common/separator/Separator'
+import './experience.css'
 
 export default function Experience() {
     return (
-        <div>
-            This is experience
+        <div className='work'>
+            <Separator/>
         </div>
     )
 }
