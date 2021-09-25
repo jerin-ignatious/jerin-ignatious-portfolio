@@ -10,7 +10,7 @@ export default function ProjectCard({item}) {
                     {item.demo&&(
                         <a className='project-link' href={item.demo}>
                             <div className='link-button'>
-                                <i className="fa fa-globe"></i>Demoo
+                                <i className="fa fa-globe"></i>Demo
                             </div>
                         </a>
                     )}
