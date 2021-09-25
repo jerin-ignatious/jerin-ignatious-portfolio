@@ -10,7 +10,7 @@ export default function Header() {
     return (
         <div className='header'>
             <div className='logo'>
-                Jerin Ignatioussss
+                Jerin Ignatious
             </div>
             <div className='menu'>
                 <div className='web-menu'>
