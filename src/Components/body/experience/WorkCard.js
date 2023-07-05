@@ -5,6 +5,7 @@ export default function WorkCard({ item }) {
     return (
         <div className='work-card'>
             <div className='work-info'>
+                <label className='designation'>{item.designation}</label>
                 <label className='company-name'>{item.company}</label>
                 <div className='work-dates'>
                     <label>{item.dateJoining}</label>-<label>{item.dateEnd}</label>

@@ -16,7 +16,7 @@ export default function About() {
                 <div className='about-info'>
                     Hello there! I'm <br/>
                     <span className='info-name'>Jerin Ignatious</span>, <br/>
-                    a WebDev Enthusiast.
+                    a Backend Developer with some Frontend experience.
                 </div>
             </div>
             <div className='about-bottom'>

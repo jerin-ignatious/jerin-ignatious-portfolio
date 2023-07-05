@@ -14,7 +14,7 @@ export default function Contact() {
                     <SocialContact/>
                 </div>
                 <div className='download'>
-                    <a download href={require('../../../assets/Jerin_Software_Engineer.pdf').default}>
+                    <a download href={require('../../../assets/Jerin_Software_Developer.pdf').default}>
                         <i className="fa fa-download download-icon"></i> Download Resume
                     </a>
                 </div>

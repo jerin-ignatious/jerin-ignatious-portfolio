@@ -24,10 +24,16 @@
 .work-desc {
   text-align: left;
   max-width: 80%;
+  white-space: pre-line; 
 }
 
 .company-name {
   font-size: 20px;
+  font-weight: 600;
+}
+
+.designation{
+  font-size: 25px;
   font-weight: 600;
 }
 
